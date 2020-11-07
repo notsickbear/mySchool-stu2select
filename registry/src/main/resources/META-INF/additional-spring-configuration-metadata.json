@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "eureka.client.server.waitTimeInMsWhenSyncEmpty",
+      "type": "java.lang.String",
+      "description": "Description for eureka.client.server.waitTimeInMsWhenSyncEmpty."
+  }
+] }
